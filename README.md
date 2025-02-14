@@ -7,13 +7,13 @@
 - **Ejercicios con los CSVs**
   - **[Código de SQL para crear la tabla ivr_detail](./03_KC_SQL_PRACTICE.sql)**
   - **[Código para generar el campo vdn_aggregation](./04_KC_SQL_PRACTICE.sql)**
-  - **[Código para generar los campos document_type y document_identification](./05_KC_SQL_PRACTICE%20.sql)**
-  - **[Código para generar el campo customer_phone](./06_KC_SQL_PRACTICE%20.sql)**
-  - **[Código para generar el campo billing_account_id](./07_KC_SQL_PRACTICE%20.sql)**
-  - **[Código para generar el campo masiva_lg](./08_KC_SQL_PRACTICE%20.sql)** 
-  - **[Código para generar el campo info_by_phone_lg](./09_KC_SQL_PRACTICE%20.sql)**
-  -  **[Código para generar el campo info_by_dni_lg](./10_KC_SQL_PRACTICE%20.sql)**
-  -  **[Código para generar los campos repeated_phone_24H y caused_recall_phone_24H](./11_KC_SQL_PRACTICE%20.sql)**
-  -  **[Código para crear la tabla ivr_summary](./12_KC_SQL_PRACTICE%20.sql)**
+  - **[Código para generar los campos document_type y document_identification](./05_KC_SQL_PRACTICE.sql)**
+  - **[Código para generar el campo customer_phone](./06_KC_SQL_PRACTICE.sql)**
+  - **[Código para generar el campo billing_account_id](./07_KC_SQL_PRACTICE.sql)**
+  - **[Código para generar el campo masiva_lg](./08_KC_SQL_PRACTICE.sql)** 
+  - **[Código para generar el campo info_by_phone_lg](./09_KC_SQL_PRACTICE.sql)**
+  -  **[Código para generar el campo info_by_dni_lg](./10_KC_SQL_PRACTICE.sql)**
+  -  **[Código para generar los campos repeated_phone_24H y caused_recall_phone_24H](./11_KC_SQL_PRACTICE.sql)**
+  -  **[Código para crear la tabla ivr_summary](./12_KC_SQL_PRACTICE.sql)**
 - **Funciones**
-    -  **[Código para definir la función clean_integer](./13_KC_SQL_PRACTICE%20.sql)**
+    -  **[Código para definir la función clean_integer](./13_KC_SQL_PRACTICE.sql)**
